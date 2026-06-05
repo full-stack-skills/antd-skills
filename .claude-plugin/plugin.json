@@ -1,7 +1,7 @@
 {
   "name": "antd-skills",
   "version": "1.0.0",
-  "description": "Ant Design component library skills — Vue, React, Mobile, Mini",
+  "description": "Ant Design component library skills",
   "author": {
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
@@ -13,6 +13,6 @@
     "./skills/ant-design-mini",
     "./skills/ant-design-mobile",
     "./skills/ant-design-react",
-    "./skills/ant-design-vue",
+    "./skills/ant-design-vue"
   ]
 }
