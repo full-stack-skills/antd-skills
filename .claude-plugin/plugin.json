@@ -1,0 +1,18 @@
+{
+  "name": "antd-skills",
+  "version": "1.0.0",
+  "description": "Ant Design component library skills — Vue, React, Mobile, Mini",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/antd-skills",
+  "repository": "https://github.com/full-statck-skills/antd-skills",
+  "source": "./",
+  "skills": [
+    "./skills/ant-design-mini",
+    "./skills/ant-design-mobile",
+    "./skills/ant-design-react",
+    "./skills/ant-design-vue",
+  ]
+}
