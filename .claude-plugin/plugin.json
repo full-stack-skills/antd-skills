@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/antd-skills",
-  "repository": "https://github.com/full-statck-skills/antd-skills",
+  "homepage": "https://github.com/full-stack-skills/antd-skills",
+  "repository": "https://github.com/full-stack-skills/antd-skills",
   "source": "./",
   "skills": [
     "./skills/ant-design-mini",
