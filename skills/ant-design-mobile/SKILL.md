@@ -1,7 +1,7 @@
 ---
 name: ant-design-mobile
 description: Provides comprehensive guidance for Ant Design Mobile component library including mobile components, themes, and platform adaptations. Use when the user asks about Ant Design Mobile, needs to build mobile applications, or implement mobile UI components.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

@@ -1,7 +1,7 @@
 ---
 name: ant-design-vue
 description: Provides comprehensive guidance for Ant Design Vue (AntDV) component library for Vue 3. Covers installation, usage, API reference, templates, and all component categories. Use when building enterprise-class UI with Vue 3 and Ant Design.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

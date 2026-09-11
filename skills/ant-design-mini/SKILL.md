@@ -1,7 +1,7 @@
 ---
 name: ant-design-mini
 description: Provides comprehensive guidance for Ant Design Mini component library for mini-programs including components, themes, and platform support. Use when the user asks about Ant Design Mini, needs to build mini-program applications, or use mini-program components.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

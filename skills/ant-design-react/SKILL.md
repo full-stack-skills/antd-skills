@@ -1,7 +1,7 @@
 ---
 name: ant-design-react
 description: Provides comprehensive guidance for Ant Design React component library including components, design system, themes, and TypeScript support. Use when the user asks about Ant Design for React, needs to build React applications with Ant Design, or implement design system patterns.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
